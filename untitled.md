@@ -2,7 +2,7 @@
 description: Second page
 ---
 
-# Untitled
+# Second page
 
 my second content
 
